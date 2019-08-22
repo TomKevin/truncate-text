@@ -1,4 +1,4 @@
-const truncatetext = (str, length) => {
+const truncatetxt = (str, length) => {
 
     if (length == null) {
 
@@ -20,4 +20,4 @@ const truncatetext = (str, length) => {
 
 };
 
-module.exports = truncatetext;
+module.exports = truncatetxt;

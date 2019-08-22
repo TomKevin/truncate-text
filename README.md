@@ -4,13 +4,13 @@ Used to show that words have been omitted from a quotation or to create a pause 
 
 # Installation
 
-`npm i truncate-text --save`
+`npm i truncate-txt --save`
 
 Then...
 
 ...
 
-import truncatetext from 'truncate-text';
+import truncatetext from 'truncate-txt';
 
 truncatetext('Lorem ipsum dolor sit amet, consectetur adipiscing elit', 20);
 

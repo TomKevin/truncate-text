@@ -1,0 +1,19 @@
+{
+  "name": "truncate-txt",
+  "version": "1.0.0",
+  "description": "Shortens Long Text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomKevin/truncate-text.git"
+  },
+  "author": "Kevin Moturi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomKevin/truncate-text/issues"
+  },
+  "homepage": "https://github.com/TomKevin/truncate-text#readme"
+}
