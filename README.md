@@ -6,13 +6,13 @@ Used to show that words have been omitted from a quotation or to create a pause 
 
 `npm i truncate-txt --save`
 
-Then...
+# Usage
 
 ...
 
-import truncatetext from 'truncate-txt';
+`import truncate from 'truncate-txt';`
 
-truncatetext('Lorem ipsum dolor sit amet, consectetur adipiscing elit', 20);
+`truncate('Lorem ipsum dolor sit amet, consectetur adipiscing elit', 20);`
 
 ...
 

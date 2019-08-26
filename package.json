@@ -1,7 +1,7 @@
 {
   "name": "truncate-txt",
   "version": "1.0.0",
-  "description": "Shortens Long Text",
+  "description": "Displays No. Of Characters In A Long Text To The Specified Number",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
